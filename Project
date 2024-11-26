@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TRAVEL TALES - Travel Website</title>
+   <link rel="stylesheet" href="pro.css">
+</head>
+<body>
+
+
+    <header>
+        <h1>Explore the World</h1>
+        <nav>
+            <a href="#home">Home</a>
+            <a href="#destinations">Destinations</a>
+            <a href="#footer">Sign in</a>
+        </nav>
+    </header>
+    
+            <h2>Popular Destinations</h2>
+            <div class="popular-destinations">
+                <div class="destination">
+                    <img src="image.png" alt="Paris, France">
+                    <h3>Paris, France</h3>
+                    <p>The city of lights, romance, and history.</p>
+                </div>
+                <div class="destination">
+                    <img src="image copy.png" alt="Tokyo, Japan">
+                    <h3>Tokyo, Japan</h3>
+                    <p>A vibrant city blending tradition and modernity.</p>
+                </div>
+                <div class="destination">
+                    <img src="image copy 2.png" alt="New York, USA">
+                    <h3>New York, USA</h3>
+                    <p>The city that never sleeps, full of life and culture.</p>
+                </div>
+                <div class="destination">
+                    <img src="image copy 3.png" alt="taj mahal,India">
+                    <h3>TAJ MAHAL, INDIA</h3>
+                    <P>The seventh wonder of the world</P>
+                </div>
+                <div class="destination">
+                    <img src="image copy 4.png" alt="taj mahal,India">
+                    <h3>safari island, maldives</h3>
+                    <P>An island with over water </P>
+                </div>
+                <div class="destination">
+                    <img src="image copy 5.png" alt="mecca,Saudi">
+                    <h3>mecca, Saudi</h3>
+                    <P>Muslims holy place</P>
+                </div>
+            </div>
+        </section>
+
+        <!-- Testimonials Section -->
+        <section class="testimonials">
+            <h2>What Our Travelers Say</h2>
+            <div class="testimonial">
+                <p>"This was the best travel experience I've ever had! The guides were amazing, and I fell in love with Bali."</p>
+                <p>- Masthan</p>
+            </div>
+            <div class="testimonial">
+                <p>"Absolutely unforgettable! Thank you for organizing such an amazing trip for us in Paris."</p>
+                <p>- Irfan</p>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2023 Explore the World. All rights reserved.</p>
+        <div class="sign in">
+            <h3>Sign in to Our Newsletter</h3>
+            <input type="email" placeholder="Enter your Name">
+       <br><br>
+                
+                <input type="email" placeholder="Enter your Ph.no">
+                <div class="newsletter">
+                    
+                <input type="email" placeholder="Enter your Email">
+                    <div class="Newsletter"><br>
+                    
+            <input type="email" placeholder="Enter your password"><br><br>
+                     
+
+            <button>log in</button>
+        </div>
+    </footer>
+
+</body>
+</html>
